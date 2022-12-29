@@ -2095,10 +2095,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@palette.dev/browser@1.14.1-fix-longframes-duplicates.2":
-  version "1.14.1-fix-longframes-duplicates.2"
-  resolved "https://registry.yarnpkg.com/@palette.dev/browser/-/browser-1.14.1-fix-longframes-duplicates.2.tgz#eb9575866204573405ec7f7ace009247fef0a617"
-  integrity sha512-h8rdP3lpiw/QRBivvCvw00AiFKoP3fr2x3ZtkN4yuOuEUWbhHR0JsAI0lQwswKKhFad+cP/SbYstPMtvXxkFRA==
+"@palette.dev/browser@^1.14.1":
+  version "1.14.1"
+  resolved "https://registry.yarnpkg.com/@palette.dev/browser/-/browser-1.14.1.tgz#b3226f57c49c28eeba336c8a11a2b0b051bc7894"
+  integrity sha512-aN8xm1AC0kzf8N4eqztCvmTvmEbi94AeehjcoMNyvsNIF6cjhUFwhJZeRoeR+n2JOzsSyOcOX8vRDE4XPFi4ig==
 
 "@palette.dev/cli@^1.6.1":
   version "1.6.1"

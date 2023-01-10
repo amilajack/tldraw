@@ -9,6 +9,7 @@ const {
   VERCEL_GIT_COMMIT_SHA,
   GA_MEASUREMENT_ID,
   PALETTE_ASSET_KEY,
+  VERCEL_ENV,
 } = process.env
 
 const isProduction = NODE_ENV === 'production'
@@ -33,6 +34,7 @@ module.exports = withTM(['@tldraw/tldraw', '@tldraw/core'])(
           key: process.env.PALETTE_ASSET_KEY,
           include: ['.next/static'],
           version: VERCEL_GIT_COMMIT_SHA,
+          release: VERCEL_ENV === 'production',
         })
       )
       return config

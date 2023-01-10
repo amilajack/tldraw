@@ -2070,10 +2070,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@palette.dev/browser@^1.14.1":
-  version "1.14.1"
-  resolved "https://registry.yarnpkg.com/@palette.dev/browser/-/browser-1.14.1.tgz#b3226f57c49c28eeba336c8a11a2b0b051bc7894"
-  integrity sha512-aN8xm1AC0kzf8N4eqztCvmTvmEbi94AeehjcoMNyvsNIF6cjhUFwhJZeRoeR+n2JOzsSyOcOX8vRDE4XPFi4ig==
+"@palette.dev/browser@^1.15.1":
+  version "1.15.1"
+  resolved "https://registry.yarnpkg.com/@palette.dev/browser/-/browser-1.15.1.tgz#b6e49b6c1d817fd113e735efef30007ac0688982"
+  integrity sha512-u6bqqq26PA+gU2sAXB78kEScCAgcC1PEGANvtKSv/FAHmlKpIcZUU59gBh4Q1kYYLttEsC4kOVs7C18QidYS6g==
 
 "@palette.dev/cli@^1.6.1":
   version "1.6.1"

@@ -21,7 +21,7 @@
     "@liveblocks/react": "^0.18.3",
     "@palette.dev/browser": "^1.15.1",
     "@palette.dev/cli": "^1.6.1",
-    "@palette.dev/webpack-plugin": "^1.2.2",
+    "@palette.dev/webpack-plugin": "^1.3.0",
     "@stitches/react": "^1.2.8",
     "@tldraw/core": "*",
     "@tldraw/tldraw": "*",

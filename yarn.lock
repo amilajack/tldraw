@@ -2075,7 +2075,7 @@
   resolved "https://registry.yarnpkg.com/@palette.dev/browser/-/browser-1.15.1.tgz#b6e49b6c1d817fd113e735efef30007ac0688982"
   integrity sha512-u6bqqq26PA+gU2sAXB78kEScCAgcC1PEGANvtKSv/FAHmlKpIcZUU59gBh4Q1kYYLttEsC4kOVs7C18QidYS6g==
 
-"@palette.dev/cli@^1.6.1":
+"@palette.dev/cli@^1.6.1", "@palette.dev/cli@^1.x.x":
   version "1.6.1"
   resolved "https://registry.yarnpkg.com/@palette.dev/cli/-/cli-1.6.1.tgz#8dde7c94fb19d24897a03fc2ef97695d17e746a8"
   integrity sha512-tNxQqUHnu0qDV34sNxxD118g3alokMz1srFMV1wyhhMWXl7bCfUUL6hsM7PaxInX5pcV4XZuoLFVrzU/hDg4Fg==
@@ -2087,22 +2087,10 @@
     node-fetch "^2.6.7"
     yargs "^17.5.1"
 
-"@palette.dev/cli@^1.x.x":
-  version "1.6.0"
-  resolved "https://registry.yarnpkg.com/@palette.dev/cli/-/cli-1.6.0.tgz#2e61b3f25cd99df23b6590d9408a46b1fc8d4a0f"
-  integrity sha512-fwyMTzFF2ONuPJ4PR+0+verw5+l7yWw7hcNBu32ZSswg8emyLmIMYy+7axz7cPLowOi1ApbBOU4mMciYt7ggYw==
-  dependencies:
-    crosspath "^1.0.0"
-    form-data "^4.0.0"
-    globby "^11.1.0"
-    lodash "^4.17.21"
-    node-fetch "^2.6.7"
-    yargs "^17.5.1"
-
-"@palette.dev/webpack-plugin@^1.2.2":
-  version "1.2.2"
-  resolved "https://registry.yarnpkg.com/@palette.dev/webpack-plugin/-/webpack-plugin-1.2.2.tgz#2f7c6904462631d97fbfee8e671f78dddc4b02de"
-  integrity sha512-KQHiG07ok1nmpVGh5FwCpH/ARJdtqBw5F40SFAJAlaqVdFQnkfGtnSWO33b31ftziGNutAfYtzR+Vads3kID1g==
+"@palette.dev/webpack-plugin@^1.4.0":
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/@palette.dev/webpack-plugin/-/webpack-plugin-1.4.0.tgz#65bafe51439fb2d73bf7fbd5f2e1596009bb8447"
+  integrity sha512-BWoCGQ+mdsqcSBGN3v6migKjKBGmu8w0g4XNpX5RYQcuerVHNRfsyWEzYq5GHfnXUIoV70nIdxisHVjOkuvYCQ==
   dependencies:
     "@palette.dev/cli" "^1.x.x"
 

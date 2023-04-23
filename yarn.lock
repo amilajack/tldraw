@@ -2404,6 +2404,11 @@
   resolved "https://registry.yarnpkg.com/@palette.dev/browser/-/browser-1.16.0.tgz#aedd784823a49dc4ae094d9bf4738a76ea85134c"
   integrity sha512-ja4cuHq0KwjCITsvzNCqMs903o6RG2oPVplQDjBi57Q0abApJt6r/vPDm/wq2n43kghNvITnqKrDBL5Sa8GVEg==
 
+"@palette.dev/browser@^1.17.4":
+  version "1.17.4"
+  resolved "https://registry.yarnpkg.com/@palette.dev/browser/-/browser-1.17.4.tgz#2ed538f9094d7954e0963897a16f9f297307882a"
+  integrity sha512-Roi3gHoQ1tw7+6VsLBNNEKpUz+1AJYnJ+lwdoula91QAME0djyX6F4A2JKB/hz8lNkEkjtnCsleiJmzAPO7G4A==
+
 "@palette.dev/cli@^1.x.x":
   version "1.16.3"
   resolved "https://registry.yarnpkg.com/@palette.dev/cli/-/cli-1.16.3.tgz#905217514302c792ea5be3acb93f82d1749cbcfe"

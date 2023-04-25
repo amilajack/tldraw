@@ -2,7 +2,7 @@ import {
   debounce,
   events,
   init,
-  measure,
+  markers,
   network,
   paint,
   profiler,
@@ -13,7 +13,7 @@ import { useEffect, useRef } from 'react'
 init({
   key: 'cl9osspo10001jw089njbjsw4',
   // Collect ui, network, performance events, and profiles
-  plugins: [events(), network(), profiler(), measure(), paint(), vitals()],
+  plugins: [events(), network(), profiler(), markers(), paint(), vitals()],
   version: process.env.NEXT_PUBLIC_COMMIT_SHA,
 })
 

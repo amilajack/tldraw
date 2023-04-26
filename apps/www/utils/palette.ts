@@ -15,6 +15,7 @@ init({
   // Collect ui, network, performance events, and profiles
   plugins: [events(), network(), profiler(), markers(), paint(), vitals()],
   version: process.env.NEXT_PUBLIC_COMMIT_SHA,
+  debug: true,
 })
 
 // Profile page load

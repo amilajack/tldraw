@@ -2399,15 +2399,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@palette.dev/browser@1.18.3-feat-trim-paint-gte-p95.4":
+"@palette.dev/browser@1.18.3-feat-trim-paint-gte-p95.4", "@palette.dev/browser@^1.18.3-feat-trim-paint-gte-p95.4":
   version "1.18.3-feat-trim-paint-gte-p95.4"
   resolved "https://registry.yarnpkg.com/@palette.dev/browser/-/browser-1.18.3-feat-trim-paint-gte-p95.4.tgz#7e7ee7676bd9ca5c4ed6d886fb27c2addd759d3e"
   integrity sha512-TPCKI8Lc/Udj4JlLEhPpBl6kJ0yZg8N+XJVij2SwsQshE2rGHbMie5eXCp78Fm+Y8Ybr5dF6G93BIcebnA9aqA==
-
-"@palette.dev/browser@^1.16.0":
-  version "1.16.0"
-  resolved "https://registry.yarnpkg.com/@palette.dev/browser/-/browser-1.16.0.tgz#aedd784823a49dc4ae094d9bf4738a76ea85134c"
-  integrity sha512-ja4cuHq0KwjCITsvzNCqMs903o6RG2oPVplQDjBi57Q0abApJt6r/vPDm/wq2n43kghNvITnqKrDBL5Sa8GVEg==
 
 "@palette.dev/cli@^1.x.x":
   version "1.16.3"

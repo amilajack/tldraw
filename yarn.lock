@@ -2432,10 +2432,10 @@
     semver "^7.3.8"
     yargs "^17.7.1"
 
-"@palette.dev/webpack-plugin@^1.5.3":
-  version "1.5.3"
-  resolved "https://registry.yarnpkg.com/@palette.dev/webpack-plugin/-/webpack-plugin-1.5.3.tgz#bbe14747efa702df3697c047a0a81f052cf4c818"
-  integrity sha512-77M75gABUjp3Iui9VMRo35glMTLxZqsNB1edizYm5a4hSy0jrThrq+5806ya5S+76BWBVP0uA5F6mtkDO5sApw==
+"@palette.dev/webpack-plugin@^1.6.1":
+  version "1.6.1"
+  resolved "https://registry.yarnpkg.com/@palette.dev/webpack-plugin/-/webpack-plugin-1.6.1.tgz#730f22ee6673583004ff09ae6d11d7d0a1809912"
+  integrity sha512-NULqmPpZ26T6VDtVdNFzx+zy+eiyZSdeVmtACQDyWYfwdyReraTFCSDWVTAjcBzfWcv2jONK4styrnl6q1QfBg==
   dependencies:
     "@palette.dev/cli" "^1.x.x"
 

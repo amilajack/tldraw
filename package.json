@@ -72,7 +72,7 @@
   },
   "packageManager": "yarn@1.22.17",
   "dependencies": {
-    "@palette.dev/browser": "^1.16.0",
+    "@palette.dev/browser": "^1.18.10",
     "@palette.dev/webpack-plugin": "^1.5.3"
   }
 }

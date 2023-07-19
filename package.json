@@ -70,9 +70,9 @@
     "*": "prettier --ignore-unknown --write",
     "*.{ts,tsx}": "eslint --fix"
   },
-  "packageManager": "yarn@1.22.17",
+  "packageManager": "yarn@1.22.19",
   "dependencies": {
-    "@palette.dev/browser": "^1.16.0",
-    "@palette.dev/webpack-plugin": "^1.5.3"
+    "@palette.dev/webpack-plugin": "^1.6.7",
+    "@palette.dev/browser": "1.18.12-fix-client-paint-interaction-limit.3"
   }
 }

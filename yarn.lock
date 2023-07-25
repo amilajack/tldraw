@@ -2579,6 +2579,11 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
+"@palette.dev/browser@1.18.12-fix-client-paint-interaction-limit.11":
+  version "1.18.12-fix-client-paint-interaction-limit.11"
+  resolved "https://registry.yarnpkg.com/@palette.dev/browser/-/browser-1.18.12-fix-client-paint-interaction-limit.11.tgz#dd74a58079820c36afbe77b108498fbc14daec90"
+  integrity sha512-j92btw4HJuFpOxHoBDzk7qXtOryo5M05R/TXktsdbyXNKn1cWa0c0sZuz4ubB7Ajw3IWqMYNFvBooJlOo9WOcg==
+
 "@palette.dev/browser@1.18.12-fix-client-paint-interaction-limit.3":
   version "1.18.12-fix-client-paint-interaction-limit.3"
   resolved "https://registry.yarnpkg.com/@palette.dev/browser/-/browser-1.18.12-fix-client-paint-interaction-limit.3.tgz#e995fb8a86e87e5237ed79dd14a3e7f5dbc9ca64"

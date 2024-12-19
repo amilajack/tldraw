@@ -2584,11 +2584,6 @@
   resolved "https://registry.yarnpkg.com/@palette.dev/browser/-/browser-1.18.12-fix-client-paint-interaction-limit.3.tgz#e995fb8a86e87e5237ed79dd14a3e7f5dbc9ca64"
   integrity sha512-9etG+zsaf9SOypJFEa9NYIt4swa6DD7BT3T7zQERUvvvPIgsMb8OXiVhkj2SHWZV9+/bGAqgDBB8W9MXtTPT0w==
 
-"@palette.dev/browser@^1.19.0":
-  version "1.19.0"
-  resolved "https://registry.yarnpkg.com/@palette.dev/browser/-/browser-1.19.0.tgz#db8870983820614e792fe2305966d26aff42e257"
-  integrity sha512-VdsTfXDnHA+cdilXvczo4Y73/aU9pdLaPJjlz3VLXKCQTHxoOXwv0VdrGGj/6NTkjyfVSAk7JAQ0uwp2doN1jg==
-
 "@palette.dev/cli@^1.18.12":
   version "1.18.14"
   resolved "https://registry.yarnpkg.com/@palette.dev/cli/-/cli-1.18.14.tgz#f66b4ecc329fca18ff6314402939bf6612bfe2e7"

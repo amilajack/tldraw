@@ -8,7 +8,7 @@ import {
   profiler,
   vitals,
 } from '@palette.dev/browser'
-import { useEffect, useRef } from 'react'
+// import { useEffect, useRef } from 'react'
 
 init({
   key: 'cl9osspo10001jw089njbjsw4',
